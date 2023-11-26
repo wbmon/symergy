@@ -1,1 +1,1 @@
-# symergy
+# synergy
